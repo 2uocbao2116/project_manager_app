@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?> 
+<resources> 
+    <string name="default_web_client_id">855299929159-2e80hk31ugbcv9ncqa0euairtt9bohqq.apps.googleusercontent.com</string>
+
+
+    
+    <string name="facebook_app_id">995838862596554</string>
+    <string name="facebook_client_token">25acec5a510c2368533bde10d787d35f</string>
+
+
+</resources>
